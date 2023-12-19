@@ -1,0 +1,1 @@
+general_location = 'D:\ds_test\\task_2'
